@@ -1,7 +1,13 @@
-let a;
-a = promt(a);
-let b;
-b = promt(b);
-let result = a+b;
-alert(" сумма" + result);
+console.log(a + b);
+
+console.log(a - b);
+
+console.log(a * b);
+
+console.log(a / b);
+
+console.log(a % b);
+
+console.log(a ** b);
+
 
